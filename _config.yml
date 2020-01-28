@@ -34,3 +34,5 @@ education:
    date: 2015-2017
    subject: Computer Science
    university: Sardar Patel University
+
+theme: jekyll-theme-cayman
